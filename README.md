@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Smart File Organizer
 
@@ -63,3 +64,6 @@ Replace `./sample-files` with the path to your own test directory.
 ## Technologies
 
 Python, pathlib, shutil, argparse, dataclasses, pytest
+=======
+# smart-file-organizer
+>>>>>>> fe4f24957b4211dd1901d1a1e39eabd7eb6fa2bf
